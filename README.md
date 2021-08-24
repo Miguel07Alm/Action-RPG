@@ -1,4 +1,6 @@
 # Action-RPG
--Execute the ".exe" file.\n 
-Press 'q' for attacking.\n
-Press 'Space' for rolling.\n
+-Execute the ".exe" file.
+<br>
+Press 'q' for attacking.
+<br>
+Press 'Space' for rolling.
